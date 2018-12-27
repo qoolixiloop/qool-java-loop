@@ -1,0 +1,14 @@
+To run the examples, change into a directory and then compile and run the appropriate files, i.e.
+
+for Change:
+  javac Change.java ChangeTest.java
+  java ChangeTest
+
+for Types:
+  javac Types.java
+  java Types
+
+for Strings:
+  javac Strings.java
+  java Strings
+

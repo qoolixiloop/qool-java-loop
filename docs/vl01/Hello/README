@@ -1,0 +1,14 @@
+To compile Hello.java, run
+
+  javac Hello.java
+
+This results in a file Hello.class containing the Java Bytecode. You can view
+the bytecode by running
+
+  javap -c Hello
+
+To execute the program, run
+
+  java Hello
+
+
